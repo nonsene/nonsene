@@ -42,6 +42,6 @@
   
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonsene&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nonsene" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonsene&show_icons=true&locale=en&layout=compact&theme=dracula&exclude_repo=ProjetoIntegrador" alt="nonsene" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonsene&show_icons=true&locale=en&theme=dracula" alt="nonsene" width="410" /></p>
