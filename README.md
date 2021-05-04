@@ -25,7 +25,7 @@
 ### Languages & Tools I Know...
 
   
-  <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code><code> 
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code><code> 
   <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"> </code>
