@@ -26,18 +26,18 @@
 
   
   <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code><code> 
-  <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"> </code>
-  <img height="50" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg"> 
+  <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"> </code>
+  <code> <img height="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"> </code>
+  <img height="40" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg"> 
   <hr>
   
   <p align="center">
